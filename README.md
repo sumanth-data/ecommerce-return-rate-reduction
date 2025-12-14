@@ -24,9 +24,10 @@ To analyze e-commerce return data and identify key factors contributing to high 
 ## ✅ Recommendations
 - Optimize delivery timelines
 - Improve product descriptions
-- Encourage prepaid payment methods
+- Encourage prepaid payment methods)
+- Dashboard Preview
 
-## 📁 Files
-- Dataset
-- Power BI Dashboard
-- Python Analysis Notebook
+![Dashboard Preview
+
+![<img width="1279" height="791" alt="image" src="https://github.com/user-attachments/assets/5639ee32-22af-4852-b94f-9f2aaea5a882" />
+)
